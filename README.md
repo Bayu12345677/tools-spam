@@ -8,13 +8,21 @@ Biar ga eror
 
 
 -pkg update && pkg update
+
 -pkg install python2 && pkg install python
+
 -pkg install tqdm && pkg install pip
+
 -pkg install pip2 && pkg install mechanize
+
 -pkg install ruby && gem install lolcat
+
 -pkg install request && pip2 install request
+
 -pip2 install mechanize
+
 -pkg install git && PKG install tsu
+
 -git clone https://github.com/Bayu12345677/tools-spam
 
 Cara menjalankan
