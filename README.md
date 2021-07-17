@@ -27,7 +27,9 @@ Biar ga eror
 
 Cara menjalankan
 cd tools-spam
+
 chmod 777 tools-spam.sh
+
 sh tools-spam.sh
 
 
